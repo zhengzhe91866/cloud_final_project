@@ -6,7 +6,7 @@ import boto3
 
 # 主要執行的函式
 
-TOKEN = 'MTA2MDk0NjM4NTg4Njc5MzczOA.G0Bdg-.07TrDQxVLCvnuxA75k08CndHQjO1K7PO5MTaKk'
+TOKEN = 'YOUR_TOKEN'
 intent = discord.Intents.all()
 client = discord.Client(intents=intent)
 
